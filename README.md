@@ -32,8 +32,23 @@ Welcome to the official repository for **CodeNest Solutions** — a modern, resp
 
 ## 📸 Screenshots
 
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### ℹ️ About Page
+![About Page](screenshots/about.png)
+
+### 🛠️ Services Page
+![Services Page](screenshots/services.png)
+
+### 💼 Projects Page
+![Projects Page](screenshots/projects.png)
+
+### ✉️ Contact Page
+![Contact Page](screenshots/contact.png)
 
 
+---
 
 ## ✨ Features
 
