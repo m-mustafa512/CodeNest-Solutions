@@ -4,29 +4,29 @@ Welcome to the official repository for **CodeNest Solutions** — a modern, resp
 
 ## 🌐 Live Preview
 
-[🔗 View Demo](https://m-mustafa512.github.io/CodeNest-Solutions/) *(Add your GitHub Pages or hosting link here once deployed)*
+[🔗 View Demo](https://m-mustafa512.github.io/CodeNest-Solutions/) 
 
 ---
 
 ## 📁 Project Structure
-├── index.html # Home page
-├── about.html # About Us
-├── services.html # Services Offered
-├── project.html # Portfolio
-├── contact.html # Contact Page
-├── style.css # Main CSS styles
-├── script.js # JavaScript for UI interactions
-├── form.php # Backend script to handle contact form
-└── images/ # Image assets used throughout the website
+├── index.html # Home page  <br>
+├── about.html # About Us <br>
+├── services.html # Services Offered <br>
+├── project.html # Portfolio <br>
+├── contact.html # Contact Page <br>
+├── style.css # Main CSS styles <br>
+├── script.js # JavaScript for UI interactions <br>
+├── form.php # Backend script to handle contact form <br>
+└── images/ # Image assets used throughout the website <br><br> 
 
 ---
 
 ## 🛠️ Technologies Used
--HTML5
--CSS3
--JavaScript
--PHP
--Bootstrap
+-HTML5 <br>
+-CSS3 <br> 
+-JavaScript <br>
+-PHP <br>
+-Bootstrap <br><br>
 
 ---
 
